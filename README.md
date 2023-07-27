@@ -1,4 +1,4 @@
- <h1>Hi, I'm Aniyah, an <a www.linkedin.com/in/aniyah-elder-b60662275 >IT Professional</a>☺</h1>
+ <h1>Hi, I'm Aniyah, an <a www.linkedin.com/in/aniyahelder >IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
