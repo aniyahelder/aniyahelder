@@ -1,9 +1,9 @@
- <h1>Hi, I'm Aniyah, an <a https://www.linkedin.com/in/aniyah-elder-b60662275/ >IT Professional</a>☺</h1>
+ <h1>Hi, I'm Aniyah, an <a www.linkedin.com/in/aniyah-elder-b60662275 >IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/aniyahelder/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/aniyahelder/osticket-prereqs 
   - [osTicket: Post-Installation Configuration](https://github.com/aniyahelder/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/aniyahelder/ticket-lifecycle)
 - <b>Microsoft Azure</b>
