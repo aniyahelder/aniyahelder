@@ -17,4 +17,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://www.linkedin.com/aniyahelder
+[linkedin]: https://www.linkedin.com/AniyahElder
