@@ -9,7 +9,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/aniyahelder/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/aniyahelder/azure-network-protocols)
   - [Network-Files-Shares-Permissions](https://github.com/aniyahelder/Networkfileshares.git)
-  - [Building-Intuition-for-DNS](https://github.com/aniyahelder/Building-Intuition-for-BNS).
+  - [Building-Intuition-for-DNS](https://github.com/aniyahelder/BuildingInt.git).
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
