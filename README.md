@@ -6,6 +6,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/aniyahelder/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/aniyahelder/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Setup a Subscription and a Resource in Azure for Beginner Labs](https://github.com/aniyahelder/SetupAzure.git)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/aniyahelder/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/aniyahelder/azure-network-protocols)
   - [Network-Files-Shares-Permissions](https://github.com/aniyahelder/Networkfileshares.git)
